@@ -1,5 +1,6 @@
 # PlantSR
-Create more effcient super-resolution model for plant images!
+Create more effcient super-resolution model for plant images!    
+
 <img src="assets/plants.png" alt="plantSR.png" style="width:50%;">
 
 ## Dataset
