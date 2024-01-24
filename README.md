@@ -1,5 +1,7 @@
 # PlantSR
 Create more effcient super-resolution model for plant images!
+![plantSR.png](assets/plants.png)
+
 ## Dataset
 PlantSR Dataset could be downloaded from [Figshare](https://figshare.com/articles/dataset/PlantSR_Dataset/24648150)
 
