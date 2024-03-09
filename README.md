@@ -13,3 +13,5 @@ Pretrained models trained with PlantSR dataset could be downloaded from [Dropbox
 Use PlantSR.ipynb to train and inference PlantSR model. Some other SR models could be found at "others" derectory.
 
 ### P2PNet-Soy expriment could be found at [P2P-PlantSR](https://github.com/SkyCol/P2P-Soy-expriment)
+
+### YOLOv7-apple expriment could be found at [YOLOv7-PlantSR](https://github.com/SkyCol/YOLOv7-apple-expriment) 
