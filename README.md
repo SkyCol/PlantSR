@@ -1,6 +1,6 @@
 # PlantSR
 Create more effcient super-resolution model for plant images!    
-PlantSR v1.0 was published in [Journal of imaging](https://www.mdpi.com/2819270)
+PlantSR v1.0 was published in [*Journal of imaging*](https://www.mdpi.com/2819270)
 
 <img src="assets/plants.png" alt="plantSR.png" style="width:50%;">
 
