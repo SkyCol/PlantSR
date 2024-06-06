@@ -9,7 +9,7 @@ def conv(in_channels, out_channels, kernel_size=3, bias=True):
         padding=(kernel_size-1)//2,  # same padding
         bias=bias)
 
-# SE hannel Attention Layer
+# SE ccchannel Attention Layer
 class SELayer(nn.Module):
     def __init__(self, channel, reduction=16):
         super(SELayer, self).__init__()
